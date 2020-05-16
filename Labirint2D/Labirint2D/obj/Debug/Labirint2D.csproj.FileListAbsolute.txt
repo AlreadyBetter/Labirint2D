@@ -1,0 +1,10 @@
+C:\Users\Timur\Documents\Visual Studio 2015\Projects\Labirint2D\Labirint2D\Labirint2D\bin\Debug\Labirint2D.exe.config
+C:\Users\Timur\Documents\Visual Studio 2015\Projects\Labirint2D\Labirint2D\Labirint2D\bin\Debug\Labirint2D.exe
+C:\Users\Timur\Documents\Visual Studio 2015\Projects\Labirint2D\Labirint2D\Labirint2D\bin\Debug\Labirint2D.pdb
+C:\Users\Timur\Documents\Visual Studio 2015\Projects\Labirint2D\Labirint2D\Labirint2D\obj\Debug\Labirint2D.Form_menu.resources
+C:\Users\Timur\Documents\Visual Studio 2015\Projects\Labirint2D\Labirint2D\Labirint2D\obj\Debug\Labirint2D.Properties.Resources.resources
+C:\Users\Timur\Documents\Visual Studio 2015\Projects\Labirint2D\Labirint2D\Labirint2D\obj\Debug\Labirint2D.csproj.GenerateResource.Cache
+C:\Users\Timur\Documents\Visual Studio 2015\Projects\Labirint2D\Labirint2D\Labirint2D\obj\Debug\Labirint2D.exe
+C:\Users\Timur\Documents\Visual Studio 2015\Projects\Labirint2D\Labirint2D\Labirint2D\obj\Debug\Labirint2D.pdb
+C:\Users\Timur\Documents\Visual Studio 2015\Projects\Labirint2D\Labirint2D\Labirint2D\obj\Debug\Labirint2D.csprojResolveAssemblyReference.cache
+C:\Users\Timur\Documents\Visual Studio 2015\Projects\Labirint2D\Labirint2D\Labirint2D\obj\Debug\Labirint2D.Form_level1.resources
